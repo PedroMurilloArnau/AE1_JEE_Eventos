@@ -1,0 +1,12 @@
+#DESARROYO DE LA ACTIVIDAD#
+
+En esta actividad me he encontrado con diversos problemas que querria desarrollar para las siguientes actividades.
+En el caso de Eventos no se almacenan los datos por el tipo de atributo que se recoge en el servlet. En mi caso 
+no lo recojo de tipo "Session" por lo que perdemos los objetos montados al terminar de hacerlos y enviarlos.
+
+Tambien existen otros métodos para almacenar los datos tanto de "session", como los que no por lo que no. Pero ya he
+comprendido como poder desarrollarlo.
+
+Es fundamental destacar que no utilizo el tipo de fecha como "Date". Debido a que no he podido controlar este tipo de 
+dato por lo que he utilizado en este caso un String. En la proxima una vez que ya se como se desenvuelve la jsp, servlets
+y resto de partes de servidor podré centrarme en mejorar este aspecto.
